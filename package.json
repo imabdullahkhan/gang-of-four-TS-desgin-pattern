@@ -1,0 +1,23 @@
+{
+  "name": "gang-of-four-ts-desgin-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imabdullahkhan/gang-of-four-TS-desgin-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imabdullahkhan/gang-of-four-TS-desgin-pattern/issues"
+  },
+  "homepage": "https://github.com/imabdullahkhan/gang-of-four-TS-desgin-pattern#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
