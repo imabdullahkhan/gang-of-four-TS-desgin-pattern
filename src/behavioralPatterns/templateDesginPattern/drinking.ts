@@ -42,9 +42,9 @@ class Tea extends Beverage {
   }
 }
 console.log('Preparing Coffee...');
-  const coffee = new Coffee();
-  coffee.prepareBeverage();
+const coffee = new Coffee();
+coffee.prepareBeverage();
 
-  console.log('\nPreparing Tea...');
-  const tea = new Tea();
-  tea.prepareBeverage();
+console.log('\nPreparing Tea...');
+const tea = new Tea();
+tea.prepareBeverage();
