@@ -67,10 +67,7 @@ class MovieTicketBookingFacade {
 }
 
 // Usage example
-function main() {
-  const ticketBookingSystem = new MovieTicketBookingFacade();
-  const bookingResult = ticketBookingSystem.bookMovieTicket(1, 3, "user@example.com");
-  console.log(bookingResult);
-}
 
-main();
+const ticketBookingSystem = new MovieTicketBookingFacade();
+const bookingResult = ticketBookingSystem.bookMovieTicket(1, 3, "user@example.com");
+console.log(bookingResult);
